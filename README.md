@@ -1,6 +1,6 @@
-Hello 👋
+Hello
 
-![Aleksayshn`s GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleksayshn&show_icons=true&theme=vue-dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleksayshn)](https://github.com/Aleksayshn/github-readme-stats)
 
 ![Codewars](https://github.r2v.ch/codewars?user=rsschool_0b4d40ac91b4a1dd&name=true&top_languages=true&stroke=%23248bc7&theme=solarized_light)
 
